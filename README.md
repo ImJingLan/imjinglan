@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**ImJingLan/imjinglan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![ImJingLan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImJingLan)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
